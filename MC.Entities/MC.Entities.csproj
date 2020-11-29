@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MC.Core\MC.Core.csproj" />
+    <ProjectReference Include="..\MC.Logging\MC.Logging.csproj" />
+  </ItemGroup>
+
+</Project>
